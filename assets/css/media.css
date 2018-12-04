@@ -1,0 +1,55 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+  .container-resume-ahroidlife .content-ahroidlife .content-wrapper .box-ai .box-wrap {
+    padding-left: 10px;
+    padding-right: 10px; }
+    .container-resume-ahroidlife .content-ahroidlife .content-wrapper .box-ai .box-wrap .buttons-wrap a.btn-ahroidlife {
+      font-size: 12px;
+      height: 25px;
+      padding-top: 2px; }
+    .container-resume-ahroidlife .content-ahroidlife .content-wrapper .box-ai .box-wrap .link-portofolio-wrap a {
+      margin-left: 8px;
+      margin-right: 8px;
+      font-size: 12px; }
+      .container-resume-ahroidlife .content-ahroidlife .content-wrapper .box-ai .box-wrap .link-portofolio-wrap a i {
+        font-size: 12px; } }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+  .ul-nav-ahroidlife {
+    display: none; }
+  .menu-rwd {
+    display: inline-block;
+    position: absolute;
+    right: 10%;
+    top: 32%; }
+    .menu-rwd div {
+      width: 20px;
+      height: 3px;
+      border-radius: 20px;
+      margin-bottom: 5px;
+      opacity: .8;
+      background-color: #64696c; }
+    .menu-rwd div:nth-child(3) {
+      width: 13px;
+      float: right; }
+  .menu-rwd-circle {
+    display: inline-block;
+    position: absolute;
+    right: 5%;
+    top: 28%; }
+    .menu-rwd-circle div {
+      width: 6px;
+      height: 6px;
+      opacity: .8;
+      background-color: #64696c;
+      border-radius: 50px;
+      margin-bottom: 4px; }
+  .container-resume-ahroidlife .sidenav-ahroidlife {
+    display: none;
+    position: fixed;
+    height: 100vh;
+    overflow-y: scroll; } }
+
+@media only screen and (max-device-width: 320px) {
+  .box-ai {
+    padding-left: 0;
+    padding-right: 0; } }
